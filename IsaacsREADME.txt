@@ -36,3 +36,10 @@ git push <remote_name> <branch_name> ##sending the remote commits
 
 
 ```
+
+git branch
+```
+git branch ## see what branch you are on
+git branch <name_of_New_branch> ## creates a new branch
+
+```
